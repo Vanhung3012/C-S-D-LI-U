@@ -1,9 +1,9 @@
 ﻿/* Học phần: Cơ sở dữ liệu
-   Người thực hiện: ????
-   MSSV: ????
+   Người thực hiện: Hồ Văn Hưng
+   MSSV: 2110054
    Lớp: CTK45B
    Ngày bắt đầu: 23/02/2023
-   Ngày kết thúc: ?????
+   Ngày kết thúc: 
 */	
 ----------ĐỊNH NGHĨA CƠ SỞ DỮ LIỆU----------------
 CREATE DATABASE Lab01_QLNV -- lenh khai bao CSDL
